@@ -1,7 +1,4 @@
 def prime?(int)
-  if int == 
-end
-
-def prime?(int)
-  int
+  i = 2;
+  while
 end
