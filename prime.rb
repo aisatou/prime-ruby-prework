@@ -6,4 +6,5 @@ def prime?(int)
     end
     i += 1
   end
+  return true
 end
